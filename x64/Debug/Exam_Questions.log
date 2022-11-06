@@ -1,0 +1,7 @@
+﻿  Que4.c
+C:\Users\User\source\repos\Exam_Questions\Exam_Questions\Que4.c(73,20): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\source\repos\Exam_Questions\Exam_Questions\Que4.c(75,31): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\User\source\repos\Exam_Questions\Exam_Questions\Que4.c(76,18): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\source\repos\Exam_Questions\Exam_Questions\Que4.c(72,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\User\source\repos\Exam_Questions\Exam_Questions\Que4.c(70,6): warning C4101: 'i': unreferenced local variable
+  Exam_Questions.vcxproj -> C:\Users\User\source\repos\Exam_Questions\x64\Debug\Exam_Questions.exe
